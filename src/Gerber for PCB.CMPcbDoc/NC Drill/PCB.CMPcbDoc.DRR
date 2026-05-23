@@ -1,0 +1,54 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB.CMPcbDoc.PCBDoc   5/23/2026  3:55:18 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB.CMPcbDoc.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      20mil (0.5mm)                                             Round             10        PTH        0.44inch (11.25mm)
+T2      28mil (0.711mm)                                           Round             80        PTH        33.64inch (854.36mm)
+T3      29mil (0.737mm)                                           Round             2         PTH        0.08inch (2.00mm)
+T4      30mil (0.762mm)                                           Round             80        PTH        17.46inch (443.42mm)
+T5      32mil (0.8mm)                                             Round             12        PTH        0.87inch (22.00mm)
+T6      35mil (0.889mm)                                           Round             16        PTH        2.10inch (53.34mm)
+T7      35mil (0.9mm)                                             Round             16        PTH        1.90inch (48.26mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              216
+Layer Pair : Top Layer to Layer 1
+ASCII RoundHoles File : PCB.CMPcbDoc.TX1
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T2      28mil (0.711mm)                                           Round             199       PTH        60.58inch (1538.77mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              199
+Layer Pair : Top Layer to Layer 2
+ASCII RoundHoles File : PCB.CMPcbDoc.TX2
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T2      28mil (0.711mm)                                           Round             112       PTH        40.65inch (1032.53mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              112
+Layer Pair : Layer 1 to Bottom Layer
+ASCII RoundHoles File : PCB.CMPcbDoc.TX3
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T2      28mil (0.711mm)                                           Round             8         PTH        6.93inch (175.97mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              8
+Layer Pair : Layer 2 to Bottom Layer
+ASCII RoundHoles File : PCB.CMPcbDoc.TX4
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T2      28mil (0.711mm)                                           Round             68        PTH        23.22inch (589.86mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              68
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              603
+
+Total Processing Time (hh:mm:ss) : 00:00:00
